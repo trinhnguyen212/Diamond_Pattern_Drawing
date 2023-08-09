@@ -1,0 +1,8 @@
+C:\Users\tngu212\source\repos\DiamondPattern\DiamondPattern\bin\Debug\DiamondPattern.exe.config
+C:\Users\tngu212\source\repos\DiamondPattern\DiamondPattern\bin\Debug\DiamondPattern.exe
+C:\Users\tngu212\source\repos\DiamondPattern\DiamondPattern\bin\Debug\DiamondPattern.pdb
+C:\Users\tngu212\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.csproj.AssemblyReference.cache
+C:\Users\tngu212\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\tngu212\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.csproj.CoreCompileInputs.cache
+C:\Users\tngu212\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.exe
+C:\Users\tngu212\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.pdb
